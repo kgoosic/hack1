@@ -12,8 +12,8 @@
  printf("Karissa!\n");
  printf("computer science\n");
 
- printf("Correta!"\n);
- printf("computer science"\n);
+ printf("Correta!\n");
+ printf("computer science\n");
 
 
  return 0;
